@@ -2,6 +2,5 @@
 
 ## intro
 - docker-compose
-  - wordpress
   - mariadb
   - elasticsearch
